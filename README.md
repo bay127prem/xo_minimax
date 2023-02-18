@@ -1,6 +1,6 @@
 # Used heuristic
 
-[](https://www3.ntu.edu.sg/home/ehchua/programming/java/javagame_tictactoe_ai.html#:~:text=In%20Tic%2DTac%2DToe%2C,two%20empty%20cells)%20for%20computer).
+[Java Game Tic Tac Toe AI](https://www3.ntu.edu.sg/home/ehchua/programming/java/javagame_tictactoe_ai.html).
 
 # Getting Started with Create React App
 
